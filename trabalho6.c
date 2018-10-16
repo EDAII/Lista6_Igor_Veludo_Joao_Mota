@@ -9,7 +9,6 @@
 
 #define MAX 15
 #define TAREFAS 10
-#define PAUSE 10000000
 
 typedef struct {
     unsigned int start;
